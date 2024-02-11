@@ -1,0 +1,17 @@
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\bin\Debug\net6.0-windows\CalculationFunction.exe
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\bin\Debug\net6.0-windows\CalculationFunction.deps.json
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\bin\Debug\net6.0-windows\CalculationFunction.runtimeconfig.json
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\bin\Debug\net6.0-windows\CalculationFunction.dll
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\bin\Debug\net6.0-windows\CalculationFunction.pdb
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\obj\Debug\net6.0-windows\CalculationFunction.Form1.resources
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\obj\Debug\net6.0-windows\CalculationFunction.csproj.GenerateResource.cache
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\obj\Debug\net6.0-windows\CalculationFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\obj\Debug\net6.0-windows\CalculationFunction.AssemblyInfoInputs.cache
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\obj\Debug\net6.0-windows\CalculationFunction.AssemblyInfo.cs
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\obj\Debug\net6.0-windows\CalculationFunction.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\obj\Debug\net6.0-windows\CalculationFunction.dll
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\obj\Debug\net6.0-windows\refint\CalculationFunction.dll
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\obj\Debug\net6.0-windows\CalculationFunction.pdb
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\obj\Debug\net6.0-windows\CalculationFunction.genruntimeconfig.cache
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\obj\Debug\net6.0-windows\ref\CalculationFunction.dll
+D:\HomeWorkCdsWin\Lab04\Project05\CalculationFunction\obj\Debug\net6.0-windows\CalculationFunction.Form2.resources

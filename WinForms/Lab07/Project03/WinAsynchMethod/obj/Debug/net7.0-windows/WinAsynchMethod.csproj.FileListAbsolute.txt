@@ -1,0 +1,16 @@
+D:\HomeWorkCdsWin\WinForms\Lab07\Project03\WinAsynchMethod\bin\Debug\net7.0-windows\WinAsynchMethod.exe
+D:\HomeWorkCdsWin\WinForms\Lab07\Project03\WinAsynchMethod\bin\Debug\net7.0-windows\WinAsynchMethod.deps.json
+D:\HomeWorkCdsWin\WinForms\Lab07\Project03\WinAsynchMethod\bin\Debug\net7.0-windows\WinAsynchMethod.runtimeconfig.json
+D:\HomeWorkCdsWin\WinForms\Lab07\Project03\WinAsynchMethod\bin\Debug\net7.0-windows\WinAsynchMethod.dll
+D:\HomeWorkCdsWin\WinForms\Lab07\Project03\WinAsynchMethod\bin\Debug\net7.0-windows\WinAsynchMethod.pdb
+D:\HomeWorkCdsWin\WinForms\Lab07\Project03\WinAsynchMethod\obj\Debug\net7.0-windows\WinAsynchMethod.Form1.resources
+D:\HomeWorkCdsWin\WinForms\Lab07\Project03\WinAsynchMethod\obj\Debug\net7.0-windows\WinAsynchMethod.csproj.GenerateResource.cache
+D:\HomeWorkCdsWin\WinForms\Lab07\Project03\WinAsynchMethod\obj\Debug\net7.0-windows\WinAsynchMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsWin\WinForms\Lab07\Project03\WinAsynchMethod\obj\Debug\net7.0-windows\WinAsynchMethod.AssemblyInfoInputs.cache
+D:\HomeWorkCdsWin\WinForms\Lab07\Project03\WinAsynchMethod\obj\Debug\net7.0-windows\WinAsynchMethod.AssemblyInfo.cs
+D:\HomeWorkCdsWin\WinForms\Lab07\Project03\WinAsynchMethod\obj\Debug\net7.0-windows\WinAsynchMethod.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\WinForms\Lab07\Project03\WinAsynchMethod\obj\Debug\net7.0-windows\WinAsynchMethod.dll
+D:\HomeWorkCdsWin\WinForms\Lab07\Project03\WinAsynchMethod\obj\Debug\net7.0-windows\refint\WinAsynchMethod.dll
+D:\HomeWorkCdsWin\WinForms\Lab07\Project03\WinAsynchMethod\obj\Debug\net7.0-windows\WinAsynchMethod.pdb
+D:\HomeWorkCdsWin\WinForms\Lab07\Project03\WinAsynchMethod\obj\Debug\net7.0-windows\WinAsynchMethod.genruntimeconfig.cache
+D:\HomeWorkCdsWin\WinForms\Lab07\Project03\WinAsynchMethod\obj\Debug\net7.0-windows\ref\WinAsynchMethod.dll

@@ -1,0 +1,17 @@
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\bin\Debug\net6.0-windows\Greenpeace.exe
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\bin\Debug\net6.0-windows\Greenpeace.deps.json
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\bin\Debug\net6.0-windows\Greenpeace.runtimeconfig.json
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\bin\Debug\net6.0-windows\Greenpeace.dll
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\bin\Debug\net6.0-windows\Greenpeace.pdb
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\obj\Debug\net6.0-windows\Greenpeace.Form1.resources
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\obj\Debug\net6.0-windows\Greenpeace.csproj.GenerateResource.cache
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\obj\Debug\net6.0-windows\Greenpeace.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\obj\Debug\net6.0-windows\Greenpeace.AssemblyInfoInputs.cache
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\obj\Debug\net6.0-windows\Greenpeace.AssemblyInfo.cs
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\obj\Debug\net6.0-windows\Greenpeace.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\obj\Debug\net6.0-windows\Greenpeace.dll
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\obj\Debug\net6.0-windows\refint\Greenpeace.dll
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\obj\Debug\net6.0-windows\Greenpeace.pdb
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\obj\Debug\net6.0-windows\Greenpeace.genruntimeconfig.cache
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\obj\Debug\net6.0-windows\ref\Greenpeace.dll
+D:\HomeWorkCdsWin\Lab01\Project05\Task2\Greenpeace\obj\Debug\net6.0-windows\Greenpeace.Form2.resources

@@ -1,0 +1,17 @@
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\bin\Debug\net6.0-windows\WinForm.exe
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\bin\Debug\net6.0-windows\WinForm.deps.json
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\bin\Debug\net6.0-windows\WinForm.runtimeconfig.json
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\bin\Debug\net6.0-windows\WinForm.dll
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\bin\Debug\net6.0-windows\WinForm.pdb
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\obj\Debug\net6.0-windows\WinForm.Form1.resources
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\obj\Debug\net6.0-windows\WinForm.Form2.resources
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\obj\Debug\net6.0-windows\WinForm.csproj.GenerateResource.cache
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\obj\Debug\net6.0-windows\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\obj\Debug\net6.0-windows\WinForm.AssemblyInfoInputs.cache
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\obj\Debug\net6.0-windows\WinForm.AssemblyInfo.cs
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\obj\Debug\net6.0-windows\WinForm.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\obj\Debug\net6.0-windows\WinForm.dll
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\obj\Debug\net6.0-windows\refint\WinForm.dll
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\obj\Debug\net6.0-windows\WinForm.pdb
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\obj\Debug\net6.0-windows\WinForm.genruntimeconfig.cache
+D:\HomeWorkCdsWin\Lab04\Project04\WinForm\obj\Debug\net6.0-windows\ref\WinForm.dll

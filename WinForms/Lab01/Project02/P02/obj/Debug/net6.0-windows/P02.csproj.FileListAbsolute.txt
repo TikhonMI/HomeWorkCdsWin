@@ -1,0 +1,16 @@
+D:\HomeWorkCdsWin\Lab01\Project02\P02\bin\Debug\net6.0-windows\P02.exe
+D:\HomeWorkCdsWin\Lab01\Project02\P02\bin\Debug\net6.0-windows\P02.deps.json
+D:\HomeWorkCdsWin\Lab01\Project02\P02\bin\Debug\net6.0-windows\P02.runtimeconfig.json
+D:\HomeWorkCdsWin\Lab01\Project02\P02\bin\Debug\net6.0-windows\P02.dll
+D:\HomeWorkCdsWin\Lab01\Project02\P02\bin\Debug\net6.0-windows\P02.pdb
+D:\HomeWorkCdsWin\Lab01\Project02\P02\obj\Debug\net6.0-windows\P02.Form1.resources
+D:\HomeWorkCdsWin\Lab01\Project02\P02\obj\Debug\net6.0-windows\P02.csproj.GenerateResource.cache
+D:\HomeWorkCdsWin\Lab01\Project02\P02\obj\Debug\net6.0-windows\P02.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsWin\Lab01\Project02\P02\obj\Debug\net6.0-windows\P02.AssemblyInfoInputs.cache
+D:\HomeWorkCdsWin\Lab01\Project02\P02\obj\Debug\net6.0-windows\P02.AssemblyInfo.cs
+D:\HomeWorkCdsWin\Lab01\Project02\P02\obj\Debug\net6.0-windows\P02.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\Lab01\Project02\P02\obj\Debug\net6.0-windows\P02.dll
+D:\HomeWorkCdsWin\Lab01\Project02\P02\obj\Debug\net6.0-windows\refint\P02.dll
+D:\HomeWorkCdsWin\Lab01\Project02\P02\obj\Debug\net6.0-windows\P02.pdb
+D:\HomeWorkCdsWin\Lab01\Project02\P02\obj\Debug\net6.0-windows\P02.genruntimeconfig.cache
+D:\HomeWorkCdsWin\Lab01\Project02\P02\obj\Debug\net6.0-windows\ref\P02.dll

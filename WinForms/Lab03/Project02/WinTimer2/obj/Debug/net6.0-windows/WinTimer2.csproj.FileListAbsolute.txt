@@ -1,0 +1,17 @@
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\bin\Debug\net6.0-windows\WinTimer2.exe
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\bin\Debug\net6.0-windows\WinTimer2.deps.json
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\bin\Debug\net6.0-windows\WinTimer2.runtimeconfig.json
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\bin\Debug\net6.0-windows\WinTimer2.dll
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\bin\Debug\net6.0-windows\WinTimer2.pdb
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\obj\Debug\net6.0-windows\WinTimer2.Form1.resources
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\obj\Debug\net6.0-windows\WinTimer2.UserControlTimer2.resources
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\obj\Debug\net6.0-windows\WinTimer2.csproj.GenerateResource.cache
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\obj\Debug\net6.0-windows\WinTimer2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\obj\Debug\net6.0-windows\WinTimer2.AssemblyInfoInputs.cache
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\obj\Debug\net6.0-windows\WinTimer2.AssemblyInfo.cs
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\obj\Debug\net6.0-windows\WinTimer2.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\obj\Debug\net6.0-windows\WinTimer2.dll
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\obj\Debug\net6.0-windows\refint\WinTimer2.dll
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\obj\Debug\net6.0-windows\WinTimer2.pdb
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\obj\Debug\net6.0-windows\WinTimer2.genruntimeconfig.cache
+D:\HomeWorkCdsWin\Lab03\Project02\WinTimer2\obj\Debug\net6.0-windows\ref\WinTimer2.dll

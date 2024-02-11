@@ -1,0 +1,16 @@
+D:\HomeWorkCdsWin\Lab02\Project01\WinQuestion\bin\Debug\net6.0-windows\WinQuestion.exe
+D:\HomeWorkCdsWin\Lab02\Project01\WinQuestion\bin\Debug\net6.0-windows\WinQuestion.deps.json
+D:\HomeWorkCdsWin\Lab02\Project01\WinQuestion\bin\Debug\net6.0-windows\WinQuestion.runtimeconfig.json
+D:\HomeWorkCdsWin\Lab02\Project01\WinQuestion\bin\Debug\net6.0-windows\WinQuestion.dll
+D:\HomeWorkCdsWin\Lab02\Project01\WinQuestion\bin\Debug\net6.0-windows\WinQuestion.pdb
+D:\HomeWorkCdsWin\Lab02\Project01\WinQuestion\obj\Debug\net6.0-windows\WinQuestion.Form1.resources
+D:\HomeWorkCdsWin\Lab02\Project01\WinQuestion\obj\Debug\net6.0-windows\WinQuestion.csproj.GenerateResource.cache
+D:\HomeWorkCdsWin\Lab02\Project01\WinQuestion\obj\Debug\net6.0-windows\WinQuestion.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsWin\Lab02\Project01\WinQuestion\obj\Debug\net6.0-windows\WinQuestion.AssemblyInfoInputs.cache
+D:\HomeWorkCdsWin\Lab02\Project01\WinQuestion\obj\Debug\net6.0-windows\WinQuestion.AssemblyInfo.cs
+D:\HomeWorkCdsWin\Lab02\Project01\WinQuestion\obj\Debug\net6.0-windows\WinQuestion.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\Lab02\Project01\WinQuestion\obj\Debug\net6.0-windows\WinQuestion.dll
+D:\HomeWorkCdsWin\Lab02\Project01\WinQuestion\obj\Debug\net6.0-windows\refint\WinQuestion.dll
+D:\HomeWorkCdsWin\Lab02\Project01\WinQuestion\obj\Debug\net6.0-windows\WinQuestion.pdb
+D:\HomeWorkCdsWin\Lab02\Project01\WinQuestion\obj\Debug\net6.0-windows\WinQuestion.genruntimeconfig.cache
+D:\HomeWorkCdsWin\Lab02\Project01\WinQuestion\obj\Debug\net6.0-windows\ref\WinQuestion.dll

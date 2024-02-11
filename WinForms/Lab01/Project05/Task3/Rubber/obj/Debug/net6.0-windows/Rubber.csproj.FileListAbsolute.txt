@@ -1,0 +1,16 @@
+D:\HomeWorkCdsWin\Lab01\Project05\Task3\Rubber\bin\Debug\net6.0-windows\Rubber.exe
+D:\HomeWorkCdsWin\Lab01\Project05\Task3\Rubber\bin\Debug\net6.0-windows\Rubber.deps.json
+D:\HomeWorkCdsWin\Lab01\Project05\Task3\Rubber\bin\Debug\net6.0-windows\Rubber.runtimeconfig.json
+D:\HomeWorkCdsWin\Lab01\Project05\Task3\Rubber\bin\Debug\net6.0-windows\Rubber.dll
+D:\HomeWorkCdsWin\Lab01\Project05\Task3\Rubber\bin\Debug\net6.0-windows\Rubber.pdb
+D:\HomeWorkCdsWin\Lab01\Project05\Task3\Rubber\obj\Debug\net6.0-windows\Rubber.Form1.resources
+D:\HomeWorkCdsWin\Lab01\Project05\Task3\Rubber\obj\Debug\net6.0-windows\Rubber.csproj.GenerateResource.cache
+D:\HomeWorkCdsWin\Lab01\Project05\Task3\Rubber\obj\Debug\net6.0-windows\Rubber.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsWin\Lab01\Project05\Task3\Rubber\obj\Debug\net6.0-windows\Rubber.AssemblyInfoInputs.cache
+D:\HomeWorkCdsWin\Lab01\Project05\Task3\Rubber\obj\Debug\net6.0-windows\Rubber.AssemblyInfo.cs
+D:\HomeWorkCdsWin\Lab01\Project05\Task3\Rubber\obj\Debug\net6.0-windows\Rubber.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\Lab01\Project05\Task3\Rubber\obj\Debug\net6.0-windows\Rubber.dll
+D:\HomeWorkCdsWin\Lab01\Project05\Task3\Rubber\obj\Debug\net6.0-windows\refint\Rubber.dll
+D:\HomeWorkCdsWin\Lab01\Project05\Task3\Rubber\obj\Debug\net6.0-windows\Rubber.pdb
+D:\HomeWorkCdsWin\Lab01\Project05\Task3\Rubber\obj\Debug\net6.0-windows\Rubber.genruntimeconfig.cache
+D:\HomeWorkCdsWin\Lab01\Project05\Task3\Rubber\obj\Debug\net6.0-windows\ref\Rubber.dll

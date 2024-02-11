@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">aaaaaaaaaaaa</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">bbbbbbbbbbbb</LastName>
+    <Age xmlns="http://www.MyCompany.com">25</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">ccccccccc</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">dddddddddddddd</LastName>
+    <Age xmlns="http://www.MyCompany.com">30</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">eeeeeeeeeee</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">ffffffffffffff</LastName>
+    <Age xmlns="http://www.MyCompany.com">35</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">a</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">b</LastName>
+    <Age xmlns="http://www.MyCompany.com">55</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">c</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">d</LastName>
+    <Age xmlns="http://www.MyCompany.com">6</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">fdf</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">sdfsd</LastName>
+    <Age xmlns="http://www.MyCompany.com">3</Age>
+  </Person>
+</ArrayOfPerson>

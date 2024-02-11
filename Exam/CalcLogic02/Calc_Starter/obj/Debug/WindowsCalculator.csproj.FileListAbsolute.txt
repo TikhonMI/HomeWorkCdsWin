@@ -1,0 +1,43 @@
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\obj\Debug\SimpleCalculator.CalcUI.resources
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\Exam\Calc\Calc_Starter\bin\Debug\WindowsCalculator.exe.config
+D:\HomeWorkCdsWin\Exam\Calc\Calc_Starter\bin\Debug\WindowsCalculator.exe
+D:\HomeWorkCdsWin\Exam\Calc\Calc_Starter\bin\Debug\WindowsCalculator.pdb
+D:\HomeWorkCdsWin\Exam\Calc\Calc_Starter\bin\Debug\CalculatorEngine.dll
+D:\HomeWorkCdsWin\Exam\Calc\Calc_Starter\bin\Debug\CalculatorEngine.pdb
+D:\HomeWorkCdsWin\Exam\Calc\Calc_Starter\obj\Debug\WindowsCalculator.csproj.AssemblyReference.cache
+D:\HomeWorkCdsWin\Exam\Calc\Calc_Starter\obj\Debug\SimpleCalculator.CalcUI.resources
+D:\HomeWorkCdsWin\Exam\Calc\Calc_Starter\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+D:\HomeWorkCdsWin\Exam\Calc\Calc_Starter\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\Exam\Calc\Calc_Starter\obj\Debug\WindowsCalculator.csproj.CopyComplete
+D:\HomeWorkCdsWin\Exam\Calc\Calc_Starter\obj\Debug\WindowsCalculator.exe
+D:\HomeWorkCdsWin\Exam\Calc\Calc_Starter\obj\Debug\WindowsCalculator.pdb
+D:\HomeWorkCdsWin\Exam\Calc\Calc_Starter\obj\Debug\SimpleCalculator.FormS.resources
+D:\HomeWorkCdsWin\Exam\CalcLogic01\Calc_Starter\obj\Debug\WindowsCalculator.csproj.AssemblyReference.cache
+D:\HomeWorkCdsWin\Exam\CalcLogic01\Calc_Starter\obj\Debug\SimpleCalculator.CalcUI.resources
+D:\HomeWorkCdsWin\Exam\CalcLogic01\Calc_Starter\obj\Debug\SimpleCalculator.FormS.resources
+D:\HomeWorkCdsWin\Exam\CalcLogic01\Calc_Starter\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+D:\HomeWorkCdsWin\Exam\CalcLogic01\Calc_Starter\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\Exam\CalcLogic01\Calc_Starter\obj\Debug\WindowsCalculator.exe
+D:\HomeWorkCdsWin\Exam\CalcLogic01\Calc_Starter\obj\Debug\WindowsCalculator.pdb
+D:\HomeWorkCdsWin\Exam\CalcLogic01\Calc_Starter\bin\Debug\WindowsCalculator.exe.config
+D:\HomeWorkCdsWin\Exam\CalcLogic01\Calc_Starter\bin\Debug\WindowsCalculator.exe
+D:\HomeWorkCdsWin\Exam\CalcLogic01\Calc_Starter\bin\Debug\WindowsCalculator.pdb
+D:\HomeWorkCdsWin\Exam\CalcLogic01\Calc_Starter\bin\Debug\CalculatorEngine.dll
+D:\HomeWorkCdsWin\Exam\CalcLogic01\Calc_Starter\bin\Debug\CalculatorEngine.pdb
+D:\HomeWorkCdsWin\Exam\CalcLogic01\Calc_Starter\obj\Debug\WindowsCalculator.csproj.CopyComplete
+D:\HomeWorkCdsWin\Exam\CalcLogic02\Calc_Starter\obj\Debug\WindowsCalculator.csproj.AssemblyReference.cache
+D:\HomeWorkCdsWin\Exam\CalcLogic02\Calc_Starter\obj\Debug\SimpleCalculator.CalcUI.resources
+D:\HomeWorkCdsWin\Exam\CalcLogic02\Calc_Starter\obj\Debug\SimpleCalculator.FormS.resources
+D:\HomeWorkCdsWin\Exam\CalcLogic02\Calc_Starter\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+D:\HomeWorkCdsWin\Exam\CalcLogic02\Calc_Starter\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\Exam\CalcLogic02\Calc_Starter\obj\Debug\WindowsCalculator.exe
+D:\HomeWorkCdsWin\Exam\CalcLogic02\Calc_Starter\obj\Debug\WindowsCalculator.pdb
+D:\HomeWorkCdsWin\Exam\CalcLogic02\Calc_Starter\bin\Debug\WindowsCalculator.exe.config
+D:\HomeWorkCdsWin\Exam\CalcLogic02\Calc_Starter\bin\Debug\WindowsCalculator.exe
+D:\HomeWorkCdsWin\Exam\CalcLogic02\Calc_Starter\bin\Debug\WindowsCalculator.pdb
+D:\HomeWorkCdsWin\Exam\CalcLogic02\Calc_Starter\bin\Debug\CalculatorEngine.dll
+D:\HomeWorkCdsWin\Exam\CalcLogic02\Calc_Starter\bin\Debug\CalculatorEngine.pdb
+D:\HomeWorkCdsWin\Exam\CalcLogic02\Calc_Starter\obj\Debug\WindowsCalculator.csproj.CopyComplete

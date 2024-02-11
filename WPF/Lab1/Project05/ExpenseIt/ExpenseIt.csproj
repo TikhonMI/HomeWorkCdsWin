@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data\XMLData.xml" />
+    <None Remove="watermark.png" />
+    <None Remove="XMLData.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Data\XMLData.xml" />
+    <Resource Include="watermark.png" />
+  </ItemGroup>
+
+</Project>

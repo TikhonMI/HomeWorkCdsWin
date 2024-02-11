@@ -1,0 +1,16 @@
+D:\HomeWorkCdsWin\Lab02\Project02\TestList\bin\Debug\net6.0-windows\TestList.exe
+D:\HomeWorkCdsWin\Lab02\Project02\TestList\bin\Debug\net6.0-windows\TestList.deps.json
+D:\HomeWorkCdsWin\Lab02\Project02\TestList\bin\Debug\net6.0-windows\TestList.runtimeconfig.json
+D:\HomeWorkCdsWin\Lab02\Project02\TestList\bin\Debug\net6.0-windows\TestList.dll
+D:\HomeWorkCdsWin\Lab02\Project02\TestList\bin\Debug\net6.0-windows\TestList.pdb
+D:\HomeWorkCdsWin\Lab02\Project02\TestList\obj\Debug\net6.0-windows\TestList.Form1.resources
+D:\HomeWorkCdsWin\Lab02\Project02\TestList\obj\Debug\net6.0-windows\TestList.csproj.GenerateResource.cache
+D:\HomeWorkCdsWin\Lab02\Project02\TestList\obj\Debug\net6.0-windows\TestList.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsWin\Lab02\Project02\TestList\obj\Debug\net6.0-windows\TestList.AssemblyInfoInputs.cache
+D:\HomeWorkCdsWin\Lab02\Project02\TestList\obj\Debug\net6.0-windows\TestList.AssemblyInfo.cs
+D:\HomeWorkCdsWin\Lab02\Project02\TestList\obj\Debug\net6.0-windows\TestList.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\Lab02\Project02\TestList\obj\Debug\net6.0-windows\TestList.dll
+D:\HomeWorkCdsWin\Lab02\Project02\TestList\obj\Debug\net6.0-windows\refint\TestList.dll
+D:\HomeWorkCdsWin\Lab02\Project02\TestList\obj\Debug\net6.0-windows\TestList.pdb
+D:\HomeWorkCdsWin\Lab02\Project02\TestList\obj\Debug\net6.0-windows\TestList.genruntimeconfig.cache
+D:\HomeWorkCdsWin\Lab02\Project02\TestList\obj\Debug\net6.0-windows\ref\TestList.dll

@@ -1,0 +1,31 @@
+﻿<Window x:Class="Names.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Names"
+        mc:Ignorable="d"
+        Title="Names" Height="180" Width="260"> <!--Title-Имя окна; Height, Width - Размер окна-->
+    <Grid Margin="10"> <!--Margin-Отступы от края-->
+        <Grid.RowDefinitions> <!--Добавление строк-->
+            <RowDefinition Height="Auto" /> <!--Height="Auto" - Высота по контенту-->
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions> <!--Добавление колонок-->
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Label>Names</Label> <!--Добавление элемента Lable альтернатива: <Label Content="Names" /> Метка в первой строке(0) и столбце(0) сетки(по умолчанию).-->
+        <Label Grid.Column="1">Enter name:</Label> <!--Добавление элемента Lable Метка в первой строке(0) во втором столбце(1) сетки (Grid.Column="1").-->
+
+        <ListBox Grid.Row="1" x:Name="lstNames"/> <!--Добавление элемента ListBox во второй строке(1) в первом столбце(0) сетки (Grid.Row="1").-->
+
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="5,0,0,0"> <!--Добавление элемента StackPanel во второй строке(1) во втором столбце(1) сетки (Grid.Row="1" Grid.Column="1") с отступами (Margin="5,0,0,0").-->
+            <!--Последовательно добавляем элементы в StackPanel-->
+            <TextBox x:Name="txtName" />
+            <Button x:Name="btnAdd" Margin="0,5,0,0" Click="ButtonAddName_Click">Add Name</Button> <!--Кнопке добавляем событие Click="ButtonAddName_Click"-->
+            <!--ПКМ на ButtonAddName_Click -> Перейдите к определению(добавляет событие в код)-->
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+D:\HomeWorkCdsWin\Lab03\Project01\WinFormsControlLibrary\bin\Debug\net6.0-windows\WinFormsControlLibrary.deps.json
+D:\HomeWorkCdsWin\Lab03\Project01\WinFormsControlLibrary\bin\Debug\net6.0-windows\WinFormsControlLibrary.dll
+D:\HomeWorkCdsWin\Lab03\Project01\WinFormsControlLibrary\bin\Debug\net6.0-windows\WinFormsControlLibrary.pdb
+D:\HomeWorkCdsWin\Lab03\Project01\WinFormsControlLibrary\obj\Debug\net6.0-windows\WinFormsControlLibrary.UserControl1.resources
+D:\HomeWorkCdsWin\Lab03\Project01\WinFormsControlLibrary\obj\Debug\net6.0-windows\WinFormsControlLibrary.csproj.GenerateResource.cache
+D:\HomeWorkCdsWin\Lab03\Project01\WinFormsControlLibrary\obj\Debug\net6.0-windows\WinFormsControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsWin\Lab03\Project01\WinFormsControlLibrary\obj\Debug\net6.0-windows\WinFormsControlLibrary.AssemblyInfoInputs.cache
+D:\HomeWorkCdsWin\Lab03\Project01\WinFormsControlLibrary\obj\Debug\net6.0-windows\WinFormsControlLibrary.AssemblyInfo.cs
+D:\HomeWorkCdsWin\Lab03\Project01\WinFormsControlLibrary\obj\Debug\net6.0-windows\WinFormsControlLibrary.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\Lab03\Project01\WinFormsControlLibrary\obj\Debug\net6.0-windows\WinFormsControlLibrary.dll
+D:\HomeWorkCdsWin\Lab03\Project01\WinFormsControlLibrary\obj\Debug\net6.0-windows\refint\WinFormsControlLibrary.dll
+D:\HomeWorkCdsWin\Lab03\Project01\WinFormsControlLibrary\obj\Debug\net6.0-windows\WinFormsControlLibrary.pdb
+D:\HomeWorkCdsWin\Lab03\Project01\WinFormsControlLibrary\obj\Debug\net6.0-windows\ref\WinFormsControlLibrary.dll

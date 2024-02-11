@@ -1,0 +1,16 @@
+D:\HomeWorkCdsWin\Lab01\Project05\Task1\Oval\obj\Debug\net6.0-windows\Oval.Form1.resources
+D:\HomeWorkCdsWin\Lab01\Project05\Task1\Oval\obj\Debug\net6.0-windows\Oval.csproj.GenerateResource.cache
+D:\HomeWorkCdsWin\Lab01\Project05\Task1\Oval\obj\Debug\net6.0-windows\Oval.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsWin\Lab01\Project05\Task1\Oval\obj\Debug\net6.0-windows\Oval.AssemblyInfoInputs.cache
+D:\HomeWorkCdsWin\Lab01\Project05\Task1\Oval\obj\Debug\net6.0-windows\Oval.AssemblyInfo.cs
+D:\HomeWorkCdsWin\Lab01\Project05\Task1\Oval\obj\Debug\net6.0-windows\Oval.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\Lab01\Project05\Task1\Oval\bin\Debug\net6.0-windows\Oval.exe
+D:\HomeWorkCdsWin\Lab01\Project05\Task1\Oval\bin\Debug\net6.0-windows\Oval.deps.json
+D:\HomeWorkCdsWin\Lab01\Project05\Task1\Oval\bin\Debug\net6.0-windows\Oval.runtimeconfig.json
+D:\HomeWorkCdsWin\Lab01\Project05\Task1\Oval\bin\Debug\net6.0-windows\Oval.dll
+D:\HomeWorkCdsWin\Lab01\Project05\Task1\Oval\bin\Debug\net6.0-windows\Oval.pdb
+D:\HomeWorkCdsWin\Lab01\Project05\Task1\Oval\obj\Debug\net6.0-windows\Oval.dll
+D:\HomeWorkCdsWin\Lab01\Project05\Task1\Oval\obj\Debug\net6.0-windows\refint\Oval.dll
+D:\HomeWorkCdsWin\Lab01\Project05\Task1\Oval\obj\Debug\net6.0-windows\Oval.pdb
+D:\HomeWorkCdsWin\Lab01\Project05\Task1\Oval\obj\Debug\net6.0-windows\Oval.genruntimeconfig.cache
+D:\HomeWorkCdsWin\Lab01\Project05\Task1\Oval\obj\Debug\net6.0-windows\ref\Oval.dll

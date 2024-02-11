@@ -1,0 +1,16 @@
+D:\HomeWorkCdsWin\Lab05\Project03\WinAnim\bin\Debug\net6.0-windows\WinAnim.exe
+D:\HomeWorkCdsWin\Lab05\Project03\WinAnim\bin\Debug\net6.0-windows\WinAnim.deps.json
+D:\HomeWorkCdsWin\Lab05\Project03\WinAnim\bin\Debug\net6.0-windows\WinAnim.runtimeconfig.json
+D:\HomeWorkCdsWin\Lab05\Project03\WinAnim\bin\Debug\net6.0-windows\WinAnim.dll
+D:\HomeWorkCdsWin\Lab05\Project03\WinAnim\bin\Debug\net6.0-windows\WinAnim.pdb
+D:\HomeWorkCdsWin\Lab05\Project03\WinAnim\obj\Debug\net6.0-windows\WinAnim.Form1.resources
+D:\HomeWorkCdsWin\Lab05\Project03\WinAnim\obj\Debug\net6.0-windows\WinAnim.csproj.GenerateResource.cache
+D:\HomeWorkCdsWin\Lab05\Project03\WinAnim\obj\Debug\net6.0-windows\WinAnim.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsWin\Lab05\Project03\WinAnim\obj\Debug\net6.0-windows\WinAnim.AssemblyInfoInputs.cache
+D:\HomeWorkCdsWin\Lab05\Project03\WinAnim\obj\Debug\net6.0-windows\WinAnim.AssemblyInfo.cs
+D:\HomeWorkCdsWin\Lab05\Project03\WinAnim\obj\Debug\net6.0-windows\WinAnim.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\Lab05\Project03\WinAnim\obj\Debug\net6.0-windows\WinAnim.dll
+D:\HomeWorkCdsWin\Lab05\Project03\WinAnim\obj\Debug\net6.0-windows\refint\WinAnim.dll
+D:\HomeWorkCdsWin\Lab05\Project03\WinAnim\obj\Debug\net6.0-windows\WinAnim.pdb
+D:\HomeWorkCdsWin\Lab05\Project03\WinAnim\obj\Debug\net6.0-windows\WinAnim.genruntimeconfig.cache
+D:\HomeWorkCdsWin\Lab05\Project03\WinAnim\obj\Debug\net6.0-windows\ref\WinAnim.dll

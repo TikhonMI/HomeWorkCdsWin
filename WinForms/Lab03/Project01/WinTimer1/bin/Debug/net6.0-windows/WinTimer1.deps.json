@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinTimer1/1.0.0": {
+        "dependencies": {
+          "WinFormsControlLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WinTimer1.dll": {}
+        }
+      },
+      "WinFormsControlLibrary/1.0.0": {
+        "runtime": {
+          "WinFormsControlLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinTimer1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinFormsControlLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

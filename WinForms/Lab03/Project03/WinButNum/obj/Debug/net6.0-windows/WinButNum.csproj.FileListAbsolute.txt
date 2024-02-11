@@ -1,0 +1,16 @@
+D:\HomeWorkCdsWin\Lab03\Project03\WinButNum\bin\Debug\net6.0-windows\WinButNum.exe
+D:\HomeWorkCdsWin\Lab03\Project03\WinButNum\bin\Debug\net6.0-windows\WinButNum.deps.json
+D:\HomeWorkCdsWin\Lab03\Project03\WinButNum\bin\Debug\net6.0-windows\WinButNum.runtimeconfig.json
+D:\HomeWorkCdsWin\Lab03\Project03\WinButNum\bin\Debug\net6.0-windows\WinButNum.dll
+D:\HomeWorkCdsWin\Lab03\Project03\WinButNum\bin\Debug\net6.0-windows\WinButNum.pdb
+D:\HomeWorkCdsWin\Lab03\Project03\WinButNum\obj\Debug\net6.0-windows\WinButNum.Form1.resources
+D:\HomeWorkCdsWin\Lab03\Project03\WinButNum\obj\Debug\net6.0-windows\WinButNum.csproj.GenerateResource.cache
+D:\HomeWorkCdsWin\Lab03\Project03\WinButNum\obj\Debug\net6.0-windows\WinButNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsWin\Lab03\Project03\WinButNum\obj\Debug\net6.0-windows\WinButNum.AssemblyInfoInputs.cache
+D:\HomeWorkCdsWin\Lab03\Project03\WinButNum\obj\Debug\net6.0-windows\WinButNum.AssemblyInfo.cs
+D:\HomeWorkCdsWin\Lab03\Project03\WinButNum\obj\Debug\net6.0-windows\WinButNum.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsWin\Lab03\Project03\WinButNum\obj\Debug\net6.0-windows\WinButNum.dll
+D:\HomeWorkCdsWin\Lab03\Project03\WinButNum\obj\Debug\net6.0-windows\refint\WinButNum.dll
+D:\HomeWorkCdsWin\Lab03\Project03\WinButNum\obj\Debug\net6.0-windows\WinButNum.pdb
+D:\HomeWorkCdsWin\Lab03\Project03\WinButNum\obj\Debug\net6.0-windows\WinButNum.genruntimeconfig.cache
+D:\HomeWorkCdsWin\Lab03\Project03\WinButNum\obj\Debug\net6.0-windows\ref\WinButNum.dll
